@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb5a1778-7d8f-4e57-a89e-a2463bee8385" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/application-druid.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/HpApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/HpServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/common/CommonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/monitor/DruidController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/monitor/ServerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/monitor/SysLogininforController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/monitor/SysOperlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/monitor/SysUserOnlineController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysCaptchaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysConfigController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysDeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysDictDataController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysDictTypeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysIndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysMenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysNoticeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysPostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysProfileController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysRoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/system/SysUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/tool/BuildController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/tool/SwaggerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/tool/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/controller/tool/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/com/hp/web/core/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/ehcache/ehcache-shiro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/i18n/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/beautifyhtml/beautifyhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/blockUI/jquery.blockUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/bootstrap-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/columns/bootstrap-table-fixed-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/editable/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/editable/bootstrap-table-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/export/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/export/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/mobile/bootstrap-table-mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/toolbar/bootstrap-table-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/extensions/toolbar/bootstrap-table-toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/locale/bootstrap-table-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/bootstrap-treetable/bootstrap-treetable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/cropbox/cropbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/cropbox/cropbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/fullscreen/jquery.fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/iCheck/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/iCheck/green-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/iCheck/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/iCheck/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/iCheck/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-layout/jquery.layout-latest.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-layout/jquery.layout-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/default/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/line_conn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/metro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/left_menu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/left_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.all-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.core-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.excheck-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.exedit-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.exhide-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jquery-ztree/3.5/log v3.x.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jsonview/jquery.jsonview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/jsonview/jquery.jsonview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/laydate/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/laydate/theme/default/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/laydate/theme/default/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/laydate/theme/default/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/laydate/theme/default/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/laydate/theme/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/layer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/moon/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layer/theme/moon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/select/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/select/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/font/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/font/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/font/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/summernote-bs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/summernote-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/validate/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/validate/jquery.validate.extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/validate/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/ajax/libs/validate/messages_zh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/login.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/main/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/main/bootstrap.min14ed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/main/font-awesome.min93e3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/main/style.min862f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/patterns/header-profile-skin-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/patterns/header-profile-skin-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/patterns/header-profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/patterns/shattered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/skins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/file/rml.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/hp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/hp/css/hp-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/hp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/hp/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/hp/js/hp-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/hp/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/loading-upload.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/locked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/login-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/qr_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/js/jquery-ui-1.10.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/js/plugins/metisMenu/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/static/js/plugins/slimscroll/jquery.slimscroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/error/unauth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/include.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/monitor/logininfor/logininfor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/monitor/online/online.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/monitor/operlog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/monitor/operlog/operlog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/monitor/server/server.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/config/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/config/config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/config/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dept/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dept/dept.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dept/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dept/tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dict/data/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dict/data/data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dict/data/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dict/type/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dict/type/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/dict/type/type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/menu/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/menu/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/menu/icon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/menu/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/menu/tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/notice/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/notice/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/notice/notice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/post/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/post/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/post/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/role/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/role/authUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/role/dataScope.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/role/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/role/role.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/role/selectUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/profile/avatar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/profile/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/profile/resetPwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/resetPwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/system/user/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/classes/templates/tool/build/build.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin.war.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/application-druid.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/HpApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/HpServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/common/CommonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/monitor/DruidController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/monitor/ServerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/monitor/SysLogininforController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/monitor/SysOperlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/monitor/SysUserOnlineController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysCaptchaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysConfigController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysDeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysDictDataController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysDictTypeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysIndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysMenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysNoticeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysPostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysProfileController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysRoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/system/SysUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/tool/BuildController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/tool/SwaggerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/tool/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/controller/tool/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/com/hp/web/core/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/ehcache/ehcache-shiro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/i18n/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/beautifyhtml/beautifyhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/blockUI/jquery.blockUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/bootstrap-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/columns/bootstrap-table-fixed-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/editable/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/editable/bootstrap-table-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/export/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/export/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/mobile/bootstrap-table-mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/toolbar/bootstrap-table-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/extensions/toolbar/bootstrap-table-toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/locale/bootstrap-table-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/bootstrap-treetable/bootstrap-treetable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/cropbox/cropbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/cropbox/cropbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/datapicker/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/fullscreen/jquery.fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/iCheck/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/iCheck/green-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/iCheck/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/iCheck/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/iCheck/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-layout/jquery.layout-latest.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-layout/jquery.layout-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/default/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/line_conn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/img/metro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/metro/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/left_menu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/left_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/css/simple/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.all-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.core-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.excheck-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.exedit-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/js/jquery.ztree.exhide-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jquery-ztree/3.5/log v3.x.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jsonview/jquery.jsonview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/jsonview/jquery.jsonview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/laydate/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/laydate/theme/default/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/laydate/theme/default/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/laydate/theme/default/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/laydate/theme/default/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/laydate/theme/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/layer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/moon/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layer/theme/moon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/css/modules/laydate/default/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/select/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/select/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/font/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/font/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/font/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/summernote-bs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/summernote-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/validate/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/validate/jquery.validate.extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/validate/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/ajax/libs/validate/messages_zh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/login.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/main/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/main/bootstrap.min14ed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/main/font-awesome.min93e3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/main/style.min862f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/patterns/header-profile-skin-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/patterns/header-profile-skin-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/patterns/header-profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/patterns/shattered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/skins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/file/rml.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/hp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/hp/css/hp-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/hp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/hp/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/hp/js/hp-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/hp/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/loading-upload.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/locked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/login-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/qr_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/js/jquery-ui-1.10.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/js/plugins/metisMenu/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/static/js/plugins/slimscroll/jquery.slimscroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/error/unauth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/include.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/monitor/logininfor/logininfor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/monitor/online/online.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/monitor/operlog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/monitor/operlog/operlog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/monitor/server/server.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/config/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/config/config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/config/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dept/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dept/dept.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dept/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dept/tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dict/data/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dict/data/data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dict/data/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dict/type/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dict/type/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/dict/type/type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/menu/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/menu/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/menu/icon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/menu/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/menu/tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/notice/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/notice/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/notice/notice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/post/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/post/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/post/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/role/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/role/authUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/role/dataScope.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/role/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/role/role.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/role/selectUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/profile/avatar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/profile/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/profile/resetPwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/resetPwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/system/user/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/classes/templates/tool/build/build.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/HikariCP-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/UserAgentUtils-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/byte-buddy-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/classmate-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/curvesapi-1.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/druid-1.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/druid-spring-boot-starter-1.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/ehcache-core-2.6.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/fastjson-1.2.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/filters-2.0.235-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/hibernate-validator-6.0.13.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/hp-common-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/hp-framework-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/hp-generator-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/hp-quartz-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/hp-system-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jackson-core-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jackson-databind-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jackson-datatype-jdk8-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jackson-datatype-jsr310-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jackson-module-parameter-names-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jna-4.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jna-platform-4.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jsqlparser-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/log4j-api-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/log4j-to-slf4j-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-base-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-core-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-extra-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-spring-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-spring-boot-autoconfigure-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-spring-boot-starter-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapper-weekend-1.1.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mapstruct-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mybatis-spring-boot-starter-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/mysql-connector-java-8.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/oshi-core-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/pagehelper-5.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/pagehelper-spring-boot-autoconfigure-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/pagehelper-spring-boot-starter-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/persistence-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/poi-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/poi-ooxml-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/quartz-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/reflections-0.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-cache-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-config-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-config-ogdl-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-crypto-cipher-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-crypto-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-crypto-hash-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-ehcache-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-event-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-lang-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-spring-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/shiro-web-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/snakeyaml-1.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-aop-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-beans-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-autoconfigure-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-aop-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-jdbc-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-json-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-logging-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-thymeleaf-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-tomcat-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-boot-starter-web-2.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-context-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-context-support-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-core-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-expression-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-jcl-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-jdbc-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-tx-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-web-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/spring-webmvc-5.1.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-core-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-schema-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-spi-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-spring-web-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-swagger-common-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-swagger-ui-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/springfox-swagger2-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/swagger-annotations-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/swagger-models-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/thymeleaf-extras-java8time-3.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/thymeleaf-extras-shiro-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/thymeleaf-spring5-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/tomcat-embed-core-9.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/tomcat-embed-el-9.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/tomcat-embed-websocket-9.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/velocity-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/hp-admin/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/annotation/DataScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/annotation/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/annotation/Excel$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/annotation/Excel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/annotation/Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/config/Global.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/config/ServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/config/datasource/DynamicDataSourceContextHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/config/thread/ThreadPoolConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/config/thread/ThreadPoolConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/constant/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/constant/PermissionConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/constant/ScheduleConstants$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/constant/ScheduleConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/constant/ShiroConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/constant/UserConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/controller/BaseController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/controller/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/domain/AjaxResult$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/domain/AjaxResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/domain/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/domain/BaseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/domain/Ztree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/page/PageDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/page/TableDataInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/page/TableSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/text/CharsetKit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/text/Convert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/core/text/StrFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/enums/BusinessStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/enums/BusinessType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/enums/DataSourceType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/enums/OnlineStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/enums/OperatorType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/enums/UserStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/BusinessException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/DemoModeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/base/BaseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/FileException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/FileNameLengthLimitExceededException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/FileSizeLimitExceededException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/InvalidExtensionException$InvalidFlashExtensionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/InvalidExtensionException$InvalidImageExtensionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/InvalidExtensionException$InvalidMediaExtensionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/file/InvalidExtensionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/job/TaskException$Code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/job/TaskException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/CaptchaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/RoleBlockedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserBlockedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserDeleteException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserNotExistsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserPasswordNotMatchException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserPasswordRetryLimitCountException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/exception/user/UserPasswordRetryLimitExceedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSONObject$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSONObject$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSONObject$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSONObject$EndArrayCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSONObject$JSONArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/json/JSONObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/AddressUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/Arith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/DateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/ExceptionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/IpUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/MapDataUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/MessageUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/ServletUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/StringUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/Threads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/YamlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/bean/BeanUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/file/FileUploadUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/file/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/http/HttpUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/http/HttpUtils$TrustAnyHostnameVerifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/http/HttpUtils$TrustAnyTrustManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/http/HttpUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/poi/ExcelUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/reflect/ReflectUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/security/Md5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/security/PermissionUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/spring/SpringUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/utils/sql/SqlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/xss/XssFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/classes/com/hp/common/xss/XssHttpServletRequestWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/hp-common-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/aspectj/DataScopeAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/aspectj/DataSourceAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/aspectj/LogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/CaptchaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/DruidConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/FilterConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/I18nConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/KaptchaTextCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/ResourcesConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/ShiroConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/config/properties/DruidProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/datasource/DynamicDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/manager/AsyncManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/manager/ShutdownManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/manager/factory/AsyncFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/manager/factory/AsyncFactory$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/manager/factory/AsyncFactory$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/manager/factory/AsyncFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/realm/UserRealm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/service/SysLoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/service/SysPasswordService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/service/SysShiroService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/session/OnlineSession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/session/OnlineSessionDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/session/OnlineSessionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/filter/LogoutFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/filter/captcha/CaptchaValidateFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/filter/online/OnlineSessionFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/filter/sync/SyncOnlineSessionFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/session/OnlineWebSessionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/session/SpringSessionValidationScheduler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/shiro/web/session/SpringSessionValidationScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/util/LogUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/util/ShiroUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/domain/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/domain/server/Cpu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/domain/server/Jvm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/domain/server/Mem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/domain/server/Sys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/domain/server/SysFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/service/ConfigService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/service/DictService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/classes/com/hp/framework/web/service/PermissionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/hp-framework-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/config/GenConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/controller/GenController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/domain/ColumnConfigInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/domain/ColumnInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/domain/TableInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/mapper/GenMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/service/IGenService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/service/impl/GenServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/util/GenUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/com/hp/generator/util/VelocityInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/generator.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/mapper/generator/GenMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/templates/tool/gen/gen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/html/add.html.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/html/edit.html.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/html/list.html.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/java/Controller.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/java/Mapper.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/java/Service.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/java/ServiceImpl.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/java/domain.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/sql/sql.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/classes/vm/xml/Mapper.xml.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/hp-generator-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/config/ScheduleConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/controller/SysJobController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/controller/SysJobLogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/domain/SysJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/domain/SysJobLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/mapper/SysJobLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/mapper/SysJobMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/service/ISysJobLogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/service/ISysJobService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/service/impl/SysJobLogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/service/impl/SysJobServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/task/HpTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/util/AbstractQuartzJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/util/CronUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/util/JobInvokeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/util/QuartzDisallowConcurrentExecution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/util/QuartzJobExecution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/com/hp/quartz/util/ScheduleUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/mapper/quartz/SysJobLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/mapper/quartz/SysJobMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/templates/monitor/job/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/templates/monitor/job/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/templates/monitor/job/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/templates/monitor/job/job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/classes/templates/monitor/job/jobLog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/hp-quartz-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-quartz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysDept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysDictData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysDictType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysLogininfor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysNotice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysOperLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysRoleDept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysRoleMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysUserOnline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysUserPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/domain/SysUserRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysConfigMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysDeptMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysDictDataMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysDictTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysLogininforMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysNoticeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysOperLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysPostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysRoleDeptMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysRoleMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysUserOnlineMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysUserPostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/mapper/SysUserRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysConfigService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysDeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysDictDataService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysDictTypeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysLogininforService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysNoticeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysOperLogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysPostService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysUserOnlineService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/ISysUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysConfigServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysDeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysDictDataServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysDictTypeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysLogininforServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysMenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysNoticeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysOperLogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysPostServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysRoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysUserOnlineServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/com/hp/system/service/impl/SysUserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysConfigMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysDeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysDictDataMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysDictTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysLogininforMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysNoticeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysOperLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysPostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysRoleDeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysRoleMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysUserOnlineMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysUserPostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/classes/mapper/system/SysUserRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/hp-system-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hp-system/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hp-admin/src/main/resources/application-druid.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hp-admin/src/main/resources/application-druid.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ewEWhBmzJYNjnGnEoK6O5Vu664" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../instailFiles/git/repository" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideal\idea\idea_workspace\hp-jx\hp-admin\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hp-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hp.HpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5a1778-7d8f-4e57-a89e-a2463bee8385" name="Default Changelist" comment="" />
+      <created>1595224287318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595224287318</updated>
+      <workItem from="1595224290482" duration="5061000" />
+      <workItem from="1595229523743" duration="7684000" />
+      <workItem from="1595289662219" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1595231190777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595231190777" />
+    <state x="319" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595231357644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="319" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1595231357644" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1595236255916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595236255916" />
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.0.center" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.0.left" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.0.right" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.1.bottom" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.1.center" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.1.left" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.1.right" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.2.bottom" timestamp="1595237932857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595237932857" />
+    <state width="1493" height="138" key="GridCell.Tab.2.center" timestamp="1595237932857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1595237932857" />
+    <state width="1493" height="138" key="GridCell.Tab.2.left" timestamp="1595237932856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1595237932856" />
+    <state width="1493" height="138" key="GridCell.Tab.2.right" timestamp="1595237932857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1595237932857" />
+    <state x="467" y="113" key="RollbackChangesDialog" timestamp="1595289886454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595289886454" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1595289964028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595289964028" />
+  </component>
+</project>

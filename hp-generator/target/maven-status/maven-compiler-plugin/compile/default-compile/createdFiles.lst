@@ -1,0 +1,10 @@
+com\hp\generator\controller\GenController.class
+com\hp\generator\config\GenConfig.class
+com\hp\generator\util\GenUtils.class
+com\hp\generator\util\VelocityInitializer.class
+com\hp\generator\domain\TableInfo.class
+com\hp\generator\service\impl\GenServiceImpl.class
+com\hp\generator\service\IGenService.class
+com\hp\generator\domain\ColumnInfo.class
+com\hp\generator\domain\ColumnConfigInfo.class
+com\hp\generator\mapper\GenMapper.class
